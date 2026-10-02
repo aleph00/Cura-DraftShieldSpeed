@@ -3,6 +3,8 @@
 A Cura 5.13 post-processing script that lets the **Draft Shield** use a
 different speed from the skirt/brim.
 
+**Set a separate Draft Shield print speed in Cura without changing skirt, brim or first-layer speed.**
+
 ## Why?
 
 Cura normally ties draft-shield speed to skirt/brim behaviour. That is useful
